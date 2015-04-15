@@ -1,0 +1,8 @@
+这组实验考查噪声强度（corruption_level）对实验结果的影响，其他的实验参数设置如下：
+batch_size = 20
+n_visible = 28*28
+n_hidden = 100
+learning_rate = 0.1
+training_epochs = 30
+contraction_level = 0.1
+sigma =0.5
